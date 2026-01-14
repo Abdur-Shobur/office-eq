@@ -152,6 +152,10 @@ npm run lint
 
 ![Banner](./er.png)
 
+## Postman
+
+[API Documentation](https://bold-trinity-158119.postman.co/workspace/My-Workspace~5985e162-3675-4f31-85f6-22f3fb5e5358/request/42365408-2d945a15-373c-4fe0-933d-5b63b4f9ab60?action=share&creator=42365408&ctx=documentation)
+
 ## API Endpoints
 
 ### Users
